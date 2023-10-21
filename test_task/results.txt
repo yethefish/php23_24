@@ -1,0 +1,65 @@
+Array
+(
+    [two] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 1
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 6
+                )
+
+        )
+
+    [three] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 2
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 4
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 5
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => 8
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 10
+                )
+
+        )
+
+    [one] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 3
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 7
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => 9
+                )
+
+        )
+
+)
